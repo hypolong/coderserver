@@ -1,2 +1,0 @@
-# coderserver
-for codeserver test
